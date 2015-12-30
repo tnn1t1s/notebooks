@@ -14,7 +14,7 @@ id	name	net	age	home	industry
 13 	S. Robson Walton	31.7	71	Bentonville  AR	Wal-Mart
 14 	Christy Walton	30.2	66	Jackson  WY	Wal-Mart
 15 	Sheldon Adelson	26	82	Las Vegas  NV	casinos
-16 	George Soros	24.5	85	Katonah  NY	hedge funds
+16 	George Soros	24.5	85	Katonah  NY	hedgefund
 17 	Phil Knight	24.4	77	Hillsboro  OR	Nike
 18 	Forrest Mars  Jr.	23.4	84	Big Horn  WY	candy
 18 	Jacqueline Mars	23.4	76	The Plains  VA	candy
@@ -27,19 +27,19 @@ id	name	net	age	home	industry
 26 	Paul Allen	17.8	62	Mercer Island  WA	Microsoft  investments
 27 	Len Blavatnik	17.7	58	London	diversified
 28 	Charles Ergen	16.4	62	Denver  CO	satellite TV
-29 	Ray Dalio	15.3	66	Greenwich  CT	hedge funds
+29 	Ray Dalio	15.3	66	Greenwich  CT	hedgefund
 30 	Donald Bren	15.2	83	Newport Beach  CA	real estate
 31 	Abigail Johnson	14.2	54	Milton  MA	money management
-32 	James Simons	14	77	East Setauket  NY	hedge funds
+32 	James Simons	14	77	East Setauket  NY	hedgefund
 33 	Thomas Peterffy	13.5	71	Palm Beach  FL	discount brokerage
 34 	Elon Musk	13.3	44	Los Angeles  CA	Tesla Motors
 35 	Patrick Soon-Shiong	12.9	63	Los Angeles  CA	pharmaceuticals
 36 	Ronald Perelman	12.5	72	New York  NY	leveraged buyouts
-37 	Steve Cohen	12	59	Greenwich  CT	hedge funds
+37 	Steve Cohen	12	59	Greenwich  CT	hedgefund
 38 	Rupert Murdoch	11.6	84	New York  NY	media
 38 	Stephen Schwarzman	11.6	68	New York  NY	investments
-38 	David Tepper	11.6	58	Livingston  NJ	hedge funds
-41 	John Paulson	11.4	59	New York  NY	hedge funds
+38 	David Tepper	11.6	58	Livingston  NJ	hedgefund
+41 	John Paulson	11.4	59	New York  NY	hedgefund
 42 	Andrew Beal	11	63	Dallas  TX	banks  real estate
 43 	Philip Anschutz	10.9	75	Denver  CO	investments
 44 	Charles Butt	10.7	77	San Antonio  TX	supermarkets
@@ -67,7 +67,7 @@ id	name	net	age	home	industry
 65 	Harold Hamm	7.4	70	Oklahoma City  OK	oil &amp; gas
 65 	Herbert Kohler  Jr.	7.4	76	Kohler  WI	plumbing fixtures
 68 	John Malone	7.2	74	Elizabeth  CO	cable television
-69 	Ken Griffin	7	47	Chicago  IL	hedge funds
+69 	Ken Griffin	7	47	Chicago  IL	hedgefund
 70 	David Geffen	6.9	72	Malibu  CA	entertainment
 71 	Stephen Ross	6.7	75	New York  NY	real estate
 72 	Charles Schwab	6.4	78	Atherton  CA	discount brokerage
@@ -91,7 +91,7 @@ id	name	net	age	home	industry
 90 	Charles Johnson	5.3	82	Palm Beach  FL	money management
 90 	Pauline MacMillan Keinath	5.3	81	St. Louis  MO	Cargill
 90 	Trevor Rees-Jones	5.3	64	Dallas  TX	oil &amp; gas
-93 	Bruce Kovner	5.2	70	New York  NY	hedge funds
+93 	Bruce Kovner	5.2	70	New York  NY	hedgefund
 94 	Dannine Avara	5	51	Houston  TX	pipelines
 94 	Leon Black	5	64	New York  NY	private equity
 94 	Scott Duncan	5	33	Houston  TX	pipelines
@@ -106,7 +106,7 @@ id	name	net	age	home	industry
 94 	Dirk Ziff	5	51	North Palm Beach  FL	investments
 94 	Robert Ziff	5	49	New York  NY	investments
 107 	Sam Zell	4.9	74	Chicago  IL	real estate  private equity
-108 	Israel Englander	4.8	67	New York  NY	hedge funds
+108 	Israel Englander	4.8	67	New York  NY	hedgefund
 108 	Robert Kraft	4.8	74	Brookline  MA	New England Patriots
 108 	Henry Kravis	4.8	71	New York  NY	private equity
 108 	Tom Judy Love	4.8	78	Oklahoma City  OK	retail &amp; gas stations
@@ -114,8 +114,8 @@ id	name	net	age	home	industry
 108 	George Roberts	4.8	72	Atherton  CA	private equity
 114 	Charles Dolan	4.7	89	Oyster Bay  NY	cable television
 114 	Rupert Johnson  Jr.	4.7	74	Burlingame  CA	money management
-114 	Paul Tudor Jones  II.	4.7	61	Greenwich  CT	hedge funds
-114 	David Shaw	4.7	64	New York  NY	hedge funds
+114 	Paul Tudor Jones  II.	4.7	61	Greenwich  CT	hedgefund
+114 	David Shaw	4.7	64	New York  NY	hedgefund
 114 	Leonard Stern	4.7	77	New York  NY	real estate
 119 	Jin Sook &amp; Do Won Chang	4.6	56	Beverly Hills  CA	fashion retail
 119 	Mark Shoen	4.6	64	Phoenix  AZ	U-Haul
@@ -123,7 +123,7 @@ id	name	net	age	home	industry
 121 	Ann Walton Kroenke	4.5	67	Columbia  MO	Wal-Mart
 121 	Donald Trump	4.5	69	New York  NY	television  real estate
 124 	Jim Davis	4.4	72	Newton  MA	New Balance
-124 	Stanley Druckenmiller	4.4	62	New York  NY	hedge funds
+124 	Stanley Druckenmiller	4.4	62	New York  NY	hedgefund
 124 	Tamara Gustavson	4.4	53	Malibu  CA	self storage
 124 	Whitney MacMillan	4.4	86	Minneapolis  MN	Cargill
 124 	Jerry Speyer	4.4	75	New York  NY	real estate
@@ -159,7 +159,7 @@ id	name	net	age	home	industry
 149 	Walter Scott  Jr.	3.8	84	Omaha  NE	utilities  telecom
 159 	Diane Hendricks	3.7	68	Afton  WI	roofing
 159 	Reid Hoffman	3.7	48	Palo Alto  CA	LinkedIn
-159 	Julian Robertson  Jr.	3.7	83	New York  NY	hedge funds
+159 	Julian Robertson  Jr.	3.7	83	New York  NY	hedgefund
 159 	Ronda Stryker	3.7	61	Portage  MI	medical equipment
 159 	Steven Udvar-Hazy	3.7	69	Beverly Hills  CA	aircraft leasing
 164 	Archie Aldis Emmerson	3.6	86	Redding  CA	timberland  lumber mills
@@ -174,14 +174,14 @@ id	name	net	age	home	industry
 171 	Rick Caruso	3.5	56	Brentwood  CA	real estate
 171 	Bubba Cathy	3.5	61	Atlanta  GA	Chick-Fil-A
 171 	Dan Cathy	3.5	62	Atlanta  GA	Chick-Fil-A
-171 	Daniel Och	3.5	54	Scarsdale  NY	hedge funds
+171 	Daniel Och	3.5	54	Scarsdale  NY	hedgefund
 171 	Jorge Perez	3.5	66	Miami  FL	condos
 171 	Mitchell Rales	3.5	59	Potomac  MD	manufacturing  investments
 171 	Haim Saban	3.5	71	Beverly Hills  CA	TV network  investments
 171 	Lynn Schusterman	3.5	76	Tulsa  OK	oil &amp; gas  investments
 171 	Frederick Smith	3.5	71	Memphis  TN	FedEx
 182 	John Catsimatidis	3.4	67	New York  NY	oil  real estate
-182 	Leon G. Cooperman	3.4	72	Short Hills  NJ	hedge funds
+182 	Leon G. Cooperman	3.4	72	Short Hills  NJ	hedgefund
 182 	Peter Kellogg	3.4	73	Short Hills  NJ	investments
 182 	Ronald Lauder	3.4	71	New York  NY	Estee Lauder
 182 	Mary Alice Dorrance Malone	3.4	65	Coatesville  PA	Campbell Soup
@@ -225,7 +225,7 @@ id	name	net	age	home	industry
 211 	Harry Stine	3	74	Adel  IA	agriculture
 211 	Roger Wang	3	66	Nanjing	retail
 211 	Oprah Winfrey	3	61	Montecito  CA	TV shows
-227 	John Arnold	2.9	41	Houston  TX	hedge funds
+227 	John Arnold	2.9	41	Houston  TX	hedgefund
 227 	Riley Bechtel	2.9	63	San Francisco  CA	engineering  construction
 227 	Stephen Bechtel  Jr.	2.9	90	San Francisco  CA	engineering  construction
 227 	Doris Fisher	2.9	84	San Francisco  CA	Gap
@@ -237,9 +237,9 @@ id	name	net	age	home	industry
 234 	Dagmar Dolby	2.8	74	San Francisco  CA	Dolby Laboratories
 234 	Jimmy Haslam	2.8	61	Knoxville  TN	gas stations  retail
 234 	Kenneth Langone	2.8	80	Sands Point  NY	investments
-234 	John Overdeck	2.8	45	Millburn  NJ	Hedge Funds
+234 	John Overdeck	2.8	45	Millburn  NJ	hedgefund
 234 	Richard Schulze	2.8	74	Bonita Springs  FL	Best Buy
-234 	David Siegel	2.8	54	Scarsdale  NY	Hedge Funds
+234 	David Siegel	2.8	54	Scarsdale  NY	hedgefund
 234 	Herbert Simon	2.8	81	Indianapolis  IN	real estate
 234 	Clemmie Spangler  Jr.	2.8	83	Charlotte  NC	investments
 234 	Peter Thiel	2.8	48	San Francisco  CA	Facebook  Palantir
@@ -249,12 +249,12 @@ id	name	net	age	home	industry
 246 	John Fisher	2.7	54	San Francisco  CA	Gap
 246 	Don Hankey	2.7	72	Malibu  CA	auto loans
 246 	Edward Lampert	2.7	53	Miami Beach  FL	Sears
-246 	Daniel Loeb	2.7	54	New York  NY	hedge funds
+246 	Daniel Loeb	2.7	54	New York  NY	hedgefund
 246 	Herbert Louis	2.7	87	Phoenix  AZ	cleaning products
 246 	Josephine Louis	2.7	85	Winnetka  IL	cleaning products
 246 	Michael Moritz	2.7	61	San Francisco  CA	venture capital
 246 	A. Jerrold Perenchio	2.7	85	Bel Air  CA	television  Univision
-256 	William Ackman	2.6	49	New York  NY	hedge funds
+256 	William Ackman	2.6	49	New York  NY	hedgefund
 256 	David Bonderman	2.6	73	Fort Worth  TX	private equity
 256 	William Conway  Jr.	2.6	66	McLean  VA	private equity
 256 	Daniel D'Aniello	2.6	69	Vienna  VA	private equity
@@ -279,10 +279,10 @@ id	name	net	age	home	industry
 268 	Mortimer Zuckerman	2.5	78	New York  NY	real estate  media
 279 	George Bishop	2.4	78	The Woodlands  TX	oil &amp; gas
 279 	Jim Breyer	2.4	54	Woodside  CA	venture capital
-279 	James Dinan	2.4	56	New York  NY	hedge funds
+279 	James Dinan	2.4	56	New York  NY	hedgefund
 279 	David Filo	2.4	49	Palo Alto  CA	Yahoo
 279 	Douglas Leone	2.4	58	Atherton  CA	venture capital
-279 	Stephen Mandel  Jr.	2.4	59	Greenwich  CT	hedge funds
+279 	Stephen Mandel  Jr.	2.4	59	Greenwich  CT	hedgefund
 279 	C. Dean Metropoulos	2.4	69	Palm Beach  FL	investments
 279 	Penny Pritzker	2.4	56	Chicago  IL	hotels  investments
 279 	Gary Rollins	2.4	71	Atlanta  GA	pest control
@@ -294,14 +294,14 @@ id	name	net	age	home	industry
 293 	John Arrillaga	2.3	78	Portola Valley  CA	real estate
 293 	Tilman Fertitta	2.3	58	Houston  TX	restaurants  casinos
 293 	Tom Golisano	2.3	74	Naples  FL	payroll services
-293 	Noam Gottesman	2.3	54	New York  NY	hedge funds
+293 	Noam Gottesman	2.3	54	New York  NY	hedgefund
 293 	B. Wayne Hughes	2.3	82	Lexington  KY	self storage
 293 	W. Herbert Hunt	2.3	86	Dallas  TX	oil
 293 	James Irsay	2.3	56	Carmel  IN	Indianapolis Colts
 293 	Richard Peery	2.3	77	Palo Alto  CA	real estate
 293 	Jean (Gigi) Pritzker	2.3	53	Chicago  IL	hotels  investments
 293 	John Pritzker	2.3	62	San Francisco  CA	hotels  investments
-293 	Larry Robbins	2.3	46	Alpine  NJ	hedge funds
+293 	Larry Robbins	2.3	46	Alpine  NJ	hedgefund
 293 	Thomas Siebel	2.3	63	Woodside  CA	business software
 293 	Pat Stryker	2.3	59	Fort Collins  CO	medical equipment
 293 	Ty Warner	2.3	71	Oak Brook  IL	real estate  plush toys
@@ -335,7 +335,7 @@ id	name	net	age	home	industry
 327 	Jay Paul	2.1	68	San Francisco  CA	real estate
 327 	Forrest Preston	2.1	82	Cleveland  TN	health care
 327 	Daniel Pritzker	2.1	56	Marin County  CA	hotels  investments
-327 	Paul Singer	2.1	70	New York  NY	hedge funds
+327 	Paul Singer	2.1	70	New York  NY	hedgefund
 327 	Dan Snyder	2.1	51	Potomac  MD	Washington Redskins
 327 	Evan Spiegel	2.1	25	Los Angeles  CA	Snapchat
 327 	Jon Stryker	2.1	57	Kalamazoo  MI	medical equipment
@@ -345,7 +345,7 @@ id	name	net	age	home	industry
 342 	Lee Bass	2	59	Fort Worth  TX	oil  investments
 342 	Sid Bass	2	72	Fort Worth  TX	oil  investments
 342 	Norman Braman	2	83	Miami  FL	art  car dealerships
-342 	Glenn Dubin	2	58	New York  NY	hedge funds
+342 	Glenn Dubin	2	58	New York  NY	hedgefund
 342 	James France	2	71	Daytona Beach  FL	Nascar  racing
 342 	Bill Gross	2	71	Laguna Beach  CA	investments
 342 	Bruce Karsh	2	60	Los Angeles  CA	private equity
@@ -360,7 +360,7 @@ id	name	net	age	home	industry
 358 	John Farber	1.9	90	New York  NY	chemicals
 358 	Timothy Headington	1.9	65	Dallas  TX	oil &amp; gas  investments
 358 	Hamilton James	1.9	64	New York  NY	investments
-358 	Marc Lasry	1.9	55	New York  NY	hedge funds
+358 	Marc Lasry	1.9	55	New York  NY	hedgefund
 358 	Craig McCaw	1.9	66	Hunts Point  WA	telecom
 358 	Henry Nicholas  III.	1.9	56	Newport Coast  CA	semiconductors
 358 	Nelson Peltz	1.9	73	Bedford  NY	investments
@@ -373,9 +373,9 @@ id	name	net	age	home	industry
 372 	James Clark	1.85	71	Palm Beach  FL	Netscape  investments
 372 	Fayez Sarofim	1.85	87	Houston  TX	money management
 372 	Amy Wyss	1.85	44	Wilson  WY	medical equipment
-375 	Louis Bacon	1.8	57	Oyster Bay  NY	hedge funds
+375 	Louis Bacon	1.8	57	Oyster Bay  NY	hedgefund
 375 	Scott Cook	1.8	63	Woodside  CA	software
-375 	David Einhorn	1.8	47	Westchester County  NY	hedge funds
+375 	David Einhorn	1.8	47	Westchester County  NY	hedgefund
 375 	Kenneth Feld	1.8	67	Tampa  FL	circus  live entertainment
 375 	Joseph Grendys	1.8	53	Chicago  IL	meat processing
 375 	Aerin Lauder Zinterhofer	1.8	45	New York  NY	cosmetics
