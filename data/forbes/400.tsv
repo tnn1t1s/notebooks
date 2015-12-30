@@ -1,0 +1,400 @@
+id	name	net	age	home	industry
+1	Bill Gates	76	60	Medina, WA	Microsoft
+2 	Warren Buffett	62	85	Omaha  NE	Berkshire Hathaway
+3 	Larry Ellison	47.5	71	Woodside  CA	Oracle
+4 	Jeff Bezos	47	51	Seattle  WA	Amazon.com
+5 	Charles Koch	41	80	Wichita  KS	diversified
+5 	David Koch	41	75	New York  NY	diversified
+7 	Mark Zuckerberg	40.3	31	Palo Alto  CA	Facebook
+8 	Michael Bloomberg	38.6	73	New York  NY	Bloomberg LP
+9 	Jim Walton	33.7	67	Bentonville  AR	Wal-Mart
+10 	Larry Page	33.3	42	Palo Alto  CA	Google
+11 	Sergey Brin	32.6	42	Los Altos  CA	Google
+12 	Alice Walton	32	66	Fort Worth  TX	Wal-Mart
+13 	S. Robson Walton	31.7	71	Bentonville  AR	Wal-Mart
+14 	Christy Walton	30.2	66	Jackson  WY	Wal-Mart
+15 	Sheldon Adelson	26	82	Las Vegas  NV	casinos
+16 	George Soros	24.5	85	Katonah  NY	hedge funds
+17 	Phil Knight	24.4	77	Hillsboro  OR	Nike
+18 	Forrest Mars  Jr.	23.4	84	Big Horn  WY	candy
+18 	Jacqueline Mars	23.4	76	The Plains  VA	candy
+18 	John Mars	23.4	79	Jackson  WY	candy
+21 	Steve Ballmer	21.6	59	Hunts Point  WA	Microsoft
+22 	Carl Icahn	20.5	79	New York  NY	investments
+23 	Michael Dell	19.1	50	Austin  TX	Dell
+23 	Laurene Powell Jobs	19.1	52	Palo Alto  CA	Apple  Disney
+25 	Anne Cox Chambers	18	96	Atlanta  GA	media
+26 	Paul Allen	17.8	62	Mercer Island  WA	Microsoft  investments
+27 	Len Blavatnik	17.7	58	London	diversified
+28 	Charles Ergen	16.4	62	Denver  CO	satellite TV
+29 	Ray Dalio	15.3	66	Greenwich  CT	hedge funds
+30 	Donald Bren	15.2	83	Newport Beach  CA	real estate
+31 	Abigail Johnson	14.2	54	Milton  MA	money management
+32 	James Simons	14	77	East Setauket  NY	hedge funds
+33 	Thomas Peterffy	13.5	71	Palm Beach  FL	discount brokerage
+34 	Elon Musk	13.3	44	Los Angeles  CA	Tesla Motors
+35 	Patrick Soon-Shiong	12.9	63	Los Angeles  CA	pharmaceuticals
+36 	Ronald Perelman	12.5	72	New York  NY	leveraged buyouts
+37 	Steve Cohen	12	59	Greenwich  CT	hedge funds
+38 	Rupert Murdoch	11.6	84	New York  NY	media
+38 	Stephen Schwarzman	11.6	68	New York  NY	investments
+38 	David Tepper	11.6	58	Livingston  NJ	hedge funds
+41 	John Paulson	11.4	59	New York  NY	hedge funds
+42 	Andrew Beal	11	63	Dallas  TX	banks  real estate
+43 	Philip Anschutz	10.9	75	Denver  CO	investments
+44 	Charles Butt	10.7	77	San Antonio  TX	supermarkets
+45 	Donald Newhouse	10.6	85	Somerset County  NJ	media
+46 	Samuel Newhouse  Jr.	10.3	87	New York  NY	media
+47 	Jack Taylor	10.1	93	St. Louis  MO	Enterprise Rent-A-Car
+48 	Eric Schmidt	9.9	60	Atherton  CA	Google
+49 	John Menard  Jr.	9.2	75	Eau Claire  WI	retail
+50 	Jim Kennedy	9	68	Atlanta  GA	media
+50 	Blair Parry-Okeden	9	64	Scone	media
+52 	Richard Kinder	8.9	71	Houston  TX	pipelines
+53 	George Kaiser	8.8	73	Tulsa  OK	oil &amp; gas  banking
+54 	Thomas Frist  Jr.	8.7	77	Nashville  TN	health care
+55 	Leonard Lauder	8.4	82	New York  NY	Estee Lauder
+55 	Dustin Moskovitz	8.4	31	San Francisco  CA	Facebook
+57 	Pierre Omidyar	8	48	Honolulu  HI	eBay
+58 	Hank Doug Meijer	7.9	80	Grand Rapids  MI	supermarkets
+59 	Edward Johnson  III.	7.8	85	Boston  MA	money management
+60 	Micky Arison	7.7	66	Bal Harbour  FL	Carnival Cruises
+60 	James Goodnight	7.7	72	Cary  NC	software
+60 	Jan Koum	7.7	39	Santa Clara  CA	WhatsApp
+63 	Stanley Kroenke	7.6	68	Columbia  MO	sports  real estate
+63 	Leslie Wexner	7.6	78	New Albany  OH	retail
+65 	Eli Broad	7.4	82	Los Angeles  CA	investments
+65 	Harold Hamm	7.4	70	Oklahoma City  OK	oil &amp; gas
+65 	Herbert Kohler  Jr.	7.4	76	Kohler  WI	plumbing fixtures
+68 	John Malone	7.2	74	Elizabeth  CO	cable television
+69 	Ken Griffin	7	47	Chicago  IL	hedge funds
+70 	David Geffen	6.9	72	Malibu  CA	entertainment
+71 	Stephen Ross	6.7	75	New York  NY	real estate
+72 	Charles Schwab	6.4	78	Atherton  CA	discount brokerage
+73 	Jeffery Hildebrand	6.3	56	Houston  TX	oil
+74 	Ralph Lauren	6.2	76	New York  NY	Ralph Lauren
+74 	Gordon Moore	6.2	86	Woodside  CA	Intel
+76 	Bruce Halle	6.1	85	Paradise Valley  AZ	tires
+76 	Richard LeFrak	6.1	70	New York  NY	real estate
+76 	Robert Rowling	6.1	62	Dallas  TX	investments
+76 	Dennis Washington	6.1	81	Missoula  MT	construction  mining
+80 	David Duffield	6	75	Blackhawk  CA	business software
+80 	Travis Kalanick	6	39	San Francisco  CA	Uber Technologies
+82 	Carl Cook	5.8	53	Bloomington  IN	medical devices
+83 	Ray Lee Hunt	5.7	72	Dallas  TX	oil  real estate
+84 	Richard DeVos	5.6	89	Holland  MI	Amway
+84 	Shahid Khan	5.6	65	Naples  FL	auto parts
+86 	Ted Lerner	5.5	90	Chevy Chase  MD	real estate
+86 	Kelcy Warren	5.5	60	Dallas  TX	pipelines
+88 	David Green	5.4	74	Oklahoma City  OK	retail
+88 	Michael &amp; Marian Ilitch	5.4	86	Bingham Farms  MI	pizza
+90 	Charles Johnson	5.3	82	Palm Beach  FL	money management
+90 	Pauline MacMillan Keinath	5.3	81	St. Louis  MO	Cargill
+90 	Trevor Rees-Jones	5.3	64	Dallas  TX	oil &amp; gas
+93 	Bruce Kovner	5.2	70	New York  NY	hedge funds
+94 	Dannine Avara	5	51	Houston  TX	pipelines
+94 	Leon Black	5	64	New York  NY	private equity
+94 	Scott Duncan	5	33	Houston  TX	pipelines
+94 	Milane Frantz	5	46	Houston  TX	pipelines
+94 	Jerry Jones	5	73	Dallas  TX	Dallas Cowboys
+94 	Randal Kirk	5	61	Manalapan  FL	pharmaceuticals
+94 	George Lucas	5	71	San Anselmo  CA	Star Wars
+94 	Sumner Redstone	5	92	Beverly Hills  CA	Media
+94 	John A. Sobrato	5	76	Atherton  CA	real estate
+94 	Randa Williams	5	54	Houston  TX	pipelines
+94 	Daniel Ziff	5	44	New York  NY	investments
+94 	Dirk Ziff	5	51	North Palm Beach  FL	investments
+94 	Robert Ziff	5	49	New York  NY	investments
+107 	Sam Zell	4.9	74	Chicago  IL	real estate  private equity
+108 	Israel Englander	4.8	67	New York  NY	hedge funds
+108 	Robert Kraft	4.8	74	Brookline  MA	New England Patriots
+108 	Henry Kravis	4.8	71	New York  NY	private equity
+108 	Tom Judy Love	4.8	78	Oklahoma City  OK	retail &amp; gas stations
+108 	Ira Rennert	4.8	81	New York  NY	investments
+108 	George Roberts	4.8	72	Atherton  CA	private equity
+114 	Charles Dolan	4.7	89	Oyster Bay  NY	cable television
+114 	Rupert Johnson  Jr.	4.7	74	Burlingame  CA	money management
+114 	Paul Tudor Jones  II.	4.7	61	Greenwich  CT	hedge funds
+114 	David Shaw	4.7	64	New York  NY	hedge funds
+114 	Leonard Stern	4.7	77	New York  NY	real estate
+119 	Jin Sook &amp; Do Won Chang	4.6	56	Beverly Hills  CA	fashion retail
+119 	Mark Shoen	4.6	64	Phoenix  AZ	U-Haul
+121 	Elizabeth Holmes	4.5	31	Palo Alto  CA	blood testing
+121 	Ann Walton Kroenke	4.5	67	Columbia  MO	Wal-Mart
+121 	Donald Trump	4.5	69	New York  NY	television  real estate
+124 	Jim Davis	4.4	72	Newton  MA	New Balance
+124 	Stanley Druckenmiller	4.4	62	New York  NY	hedge funds
+124 	Tamara Gustavson	4.4	53	Malibu  CA	self storage
+124 	Whitney MacMillan	4.4	86	Minneapolis  MN	Cargill
+124 	Jerry Speyer	4.4	75	New York  NY	real estate
+129 	Phillip Frost	4.3	79	Miami Beach  FL	pharmaceuticals
+129 	Martha Ingram	4.3	80	Nashville  TN	book distribution  transportation
+129 	Karen Pritzker	4.3	57	Branford  CT	hotels  investments
+129 	Stewart and Lynda Resnick	4.3	80	Beverly Hills  CA	agriculture  water
+133 	David Sun	4.2	64	Irvine  CA	computer hardware
+133 	John Tu	4.2	74	Rolling Hills  CA	computer hardware
+135 	John Doerr	4.1	64	Woodside  CA	venture capital
+135 	Reinhold Schmieding	4.1	60	Naples  FL	medical devices
+135 	Jeffrey Skoll	4.1	50	Los Angeles  CA	eBay
+138 	Brian Acton	4	43	Palo Alto  CA	WhatsApp
+138 	Jeremy Jacobs  Sr.	4	75	East Aurora  NY	sports concessions
+138 	James Jannard	4	66	San Juan Islands  WA	sunglasses
+138 	Nancy Walton Laurie	4	64	Henderson  NV	Wal-Mart
+138 	Terrence Pegula	4	64	Boca Raton  FL	natural gas
+138 	H. Ross Perot  Sr.	4	85	Dallas  TX	computer services  real estate
+138 	Edward Roski  Jr.	4	77	Los Angeles  CA	real estate
+145 	John Morris	3.9	67	Springfield  MO	sporting goods retail
+145 	Isaac Perlmutter	3.9	73	Palm Beach  FL	Marvel comics
+145 	Kevin Plank	3.9	43	Lutherville  MD	Under Armour
+145 	Sheldon Solow	3.9	87	New York  NY	real estate
+149 	Marc Benioff	3.8	51	San Francisco  CA	business software
+149 	Daniel Gilbert	3.8	53	Franklin  MI	Quicken Loans
+149 	Kieu Hoang	3.8	71	Los Angeles  CA	pharmaceuticals
+149 	Steven Rales	3.8	64	Santa Barbara  CA	manufacturing
+149 	J. Christopher Reyes	3.8	62	Hobe Sound  FL	food distribution
+149 	Jude Reyes	3.8	60	Palm Beach  FL	food distribution
+149 	John Sall	3.8	67	Cary  NC	software
+149 	Alejandro Santo Domingo	3.8	38	New York  NY	beer
+149 	Andres Santo Domingo	3.8	37	New York  NY	beer
+149 	Walter Scott  Jr.	3.8	84	Omaha  NE	utilities  telecom
+159 	Diane Hendricks	3.7	68	Afton  WI	roofing
+159 	Reid Hoffman	3.7	48	Palo Alto  CA	LinkedIn
+159 	Julian Robertson  Jr.	3.7	83	New York  NY	hedge funds
+159 	Ronda Stryker	3.7	61	Portage  MI	medical equipment
+159 	Steven Udvar-Hazy	3.7	69	Beverly Hills  CA	aircraft leasing
+164 	Archie Aldis Emmerson	3.6	86	Redding  CA	timberland  lumber mills
+164 	Dan Friedkin	3.6	50	Houston  TX	Toyota dealerships
+164 	George Lindemann	3.6	79	Palm Beach  FL	investments
+164 	Igor Olenicoff	3.6	73	Lighthouse Point  FL	real estate
+164 	Robert Rich  Jr.	3.6	74	Islamorada  FL	frozen foods
+164 	Leandro Rizzuto	3.6	77	Sheridan  WY	consumer products
+164 	Steven Spielberg	3.6	69	Pacific Palisades  CA	Movies
+171 	Neil Bluhm	3.5	77	Chicago  IL	real estate
+171 	Peter Buck	3.5	85	Danbury  CT	Subway sandwich shops
+171 	Rick Caruso	3.5	56	Brentwood  CA	real estate
+171 	Bubba Cathy	3.5	61	Atlanta  GA	Chick-Fil-A
+171 	Dan Cathy	3.5	62	Atlanta  GA	Chick-Fil-A
+171 	Daniel Och	3.5	54	Scarsdale  NY	hedge funds
+171 	Jorge Perez	3.5	66	Miami  FL	condos
+171 	Mitchell Rales	3.5	59	Potomac  MD	manufacturing  investments
+171 	Haim Saban	3.5	71	Beverly Hills  CA	TV network  investments
+171 	Lynn Schusterman	3.5	76	Tulsa  OK	oil &amp; gas  investments
+171 	Frederick Smith	3.5	71	Memphis  TN	FedEx
+182 	John Catsimatidis	3.4	67	New York  NY	oil  real estate
+182 	Leon G. Cooperman	3.4	72	Short Hills  NJ	hedge funds
+182 	Peter Kellogg	3.4	73	Short Hills  NJ	investments
+182 	Ronald Lauder	3.4	71	New York  NY	Estee Lauder
+182 	Mary Alice Dorrance Malone	3.4	65	Coatesville  PA	Campbell Soup
+182 	Clayton Mathile	3.4	74	Brookville  OH	pet food
+182 	Gwendolyn Sontheim Meyer	3.4	54	Rancho Santa Fe  CA	Cargill
+182 	Anthony Pritzker	3.4	54	Los Angeles  CA	hotels  investments
+182 	Jay Robert (J.B.) Pritzker	3.4	50	Chicago  IL	hotels  investments
+182 	Jeff Sutton	3.4	55	Brooklyn  NY	real estate
+182 	Joan Tisch	3.4	89	New York  NY	diversified
+182 	Russ Weiner	3.4	45	Delray Beach  FL	energy drinks
+194 	Nathan Blecharczyk	3.3	32	San Francisco  CA	Airbnb
+194 	Brian Chesky	3.3	34	San Francisco  CA	Airbnb
+194 	Edward DeBartolo  Jr.	3.3	69	Tampa  FL	shopping centers
+194 	Joe Gebbia	3.3	34	San Francisco  CA	Airbnb
+194 	Tom Gores	3.3	51	Beverly Hills  CA	private equity
+194 	Jeff Greene	3.3	61	Palm Beach  FL	real estate  investments
+194 	John Kapoor	3.3	72	Phoenix  AZ	healthcare
+194 	Bernard Marcus	3.3	86	Atlanta  GA	Home Depot
+194 	Robert McNair	3.3	78	Houston  TX	energy  sports
+203 	Stephen Bisciotti	3.2	55	Millersville  MD	outsourcing  football
+203 	H. Fisk Johnson	3.2	57	Racine  WI	cleaning products
+203 	Imogene Powers Johnson	3.2	85	Racine  WI	cleaning products
+203 	S. Curtis Johnson	3.2	60	Racine  WI	cleaning products
+203 	Helen Johnson-Leipold	3.2	58	Racine  WI	cleaning products
+203 	Winnie Johnson-Marquart	3.2	56	Virginia Beach  VA	cleaning products
+209 	Amos Hostetter  Jr.	3.1	78	Boston  MA	cable television
+209 	Donald Sterling	3.1	79	Beverly Hills  CA	real estate
+211 	Robert Bass	3	67	Fort Worth  TX	oil  investments
+211 	Austen Cargill  II.	3	64	Livingston  MT	Cargill
+211 	James Cargill  II.	3	66	Birchwood  WI	Cargill
+211 	Mark Cuban	3	57	Dallas  TX	online media
+211 	Ray Davis	3	74	Dallas  TX	pipelines
+211 	Robert Duggan	3	71	Palo Alto  CA	pharmaceuticals
+211 	Ken Fisher	3	65	Camas  WA	money management
+211 	James Leprino	3	78	Indian Hills  CO	cheese
+211 	Marianne Liebmann	3	62	Bozeman  MT	Cargill
+211 	Thomas Pritzker	3	65	Chicago  IL	hotels  investments
+211 	Richard Rainwater	3	71	s,x	real estate  energy  insurance
+211 	David Rockefeller  Sr.	3	100	Sleepy Hollow  NY	oil  banking
+211 	Bernard Saul  II.	3	83	Chevy Chase  MD	banking  real estate
+211 	Harry Stine	3	74	Adel  IA	agriculture
+211 	Roger Wang	3	66	Nanjing	retail
+211 	Oprah Winfrey	3	61	Montecito  CA	TV shows
+227 	John Arnold	2.9	41	Houston  TX	hedge funds
+227 	Riley Bechtel	2.9	63	San Francisco  CA	engineering  construction
+227 	Stephen Bechtel  Jr.	2.9	90	San Francisco  CA	engineering  construction
+227 	Doris Fisher	2.9	84	San Francisco  CA	Gap
+227 	David Murdock	2.9	92	Los Angeles  CA	Dole  real estate
+227 	Wilbur Ross  Jr.	2.9	78	Palm Beach  FL	investments
+227 	Howard Schultz	2.9	62	Seattle  WA	Starbucks
+234 	Jack Dangermond	2.8	70	Redlands  CA	mapping software
+234 	John Paul DeJoria	2.8	71	Austin  TX	hair products  tequila
+234 	Dagmar Dolby	2.8	74	San Francisco  CA	Dolby Laboratories
+234 	Jimmy Haslam	2.8	61	Knoxville  TN	gas stations  retail
+234 	Kenneth Langone	2.8	80	Sands Point  NY	investments
+234 	John Overdeck	2.8	45	Millburn  NJ	Hedge Funds
+234 	Richard Schulze	2.8	74	Bonita Springs  FL	Best Buy
+234 	David Siegel	2.8	54	Scarsdale  NY	Hedge Funds
+234 	Herbert Simon	2.8	81	Indianapolis  IN	real estate
+234 	Clemmie Spangler  Jr.	2.8	83	Charlotte  NC	investments
+234 	Peter Thiel	2.8	48	San Francisco  CA	Facebook  Palantir
+234 	Romesh T. Wadhwani	2.8	68	Palo Alto  CA	software
+246 	Karen Johnson Boyd	2.7	91	Mount Pleasant  WI	cleaning products
+246 	Andrew &amp; Peggy Cherng	2.7	80	Las Vegas  NV	restaurants
+246 	John Fisher	2.7	54	San Francisco  CA	Gap
+246 	Don Hankey	2.7	72	Malibu  CA	auto loans
+246 	Edward Lampert	2.7	53	Miami Beach  FL	Sears
+246 	Daniel Loeb	2.7	54	New York  NY	hedge funds
+246 	Herbert Louis	2.7	87	Phoenix  AZ	cleaning products
+246 	Josephine Louis	2.7	85	Winnetka  IL	cleaning products
+246 	Michael Moritz	2.7	61	San Francisco  CA	venture capital
+246 	A. Jerrold Perenchio	2.7	85	Bel Air  CA	television  Univision
+256 	William Ackman	2.6	49	New York  NY	hedge funds
+256 	David Bonderman	2.6	73	Fort Worth  TX	private equity
+256 	William Conway  Jr.	2.6	66	McLean  VA	private equity
+256 	Daniel D'Aniello	2.6	69	Vienna  VA	private equity
+256 	Bennett Dorrance	2.6	69	Paradise Valley  AZ	Campbell Soup
+256 	Judy Faulkner	2.6	72	Madison  WI	health IT
+256 	H. Wayne Huizenga	2.6	77	Fort Lauderdale  FL	investments
+256 	John Middleton	2.6	60	Bryn Mawr  PA	tobacco
+256 	David Rubenstein	2.6	66	Bethesda  MD	private equity
+256 	Michael Rubin	2.6	43	Bryn Mawr  PA	online retailing
+256 	Henry Samueli	2.6	61	Newport Beach  CA	semiconductors
+256 	William Wrigley  Jr.	2.6	52	North Palm Beach  FL	chewing gum
+268 	Arthur Blank	2.5	73	Atlanta  GA	Home Depot
+268 	Bharat Desai	2.5	63	Fisher Island  FL	IT consulting
+268 	Barry Diller	2.5	73	New York  NY	online media
+268 	Joshua Harris	2.5	51	New York  NY	private equity
+268 	Henry Hillman	2.5	97	Pittsburgh  PA	investments
+268 	Michael Milken	2.5	69	Los Angeles  CA	investments
+268 	Sean Parker	2.5	36	New York  NY	Facebook
+268 	Robert Smith	2.5	53	Austin  TX	private equity
+268 	Warren Stephens	2.5	58	Little Rock  AR	investment banking
+268 	Dean White	2.5	92	Crown Point  IN	billboards  hotels
+268 	Mortimer Zuckerman	2.5	78	New York  NY	real estate  media
+279 	George Bishop	2.4	78	The Woodlands  TX	oil &amp; gas
+279 	Jim Breyer	2.4	54	Woodside  CA	venture capital
+279 	James Dinan	2.4	56	New York  NY	hedge funds
+279 	David Filo	2.4	49	Palo Alto  CA	Yahoo
+279 	Douglas Leone	2.4	58	Atherton  CA	venture capital
+279 	Stephen Mandel  Jr.	2.4	59	Greenwich  CT	hedge funds
+279 	C. Dean Metropoulos	2.4	69	Palm Beach  FL	investments
+279 	Penny Pritzker	2.4	56	Chicago  IL	hotels  investments
+279 	Gary Rollins	2.4	71	Atlanta  GA	pest control
+279 	Randall Rollins	2.4	84	Atlanta  GA	pest control
+279 	Marc Rowan	2.4	53	New York  NY	private equity
+279 	Phillip Ruffin	2.4	80	Las Vegas  NV	casinos  real estate
+279 	Patrick Ryan	2.4	78	Winnetka  IL	insurance
+279 	Steve Wynn	2.4	73	Las Vegas  NV	casinos  hotels
+293 	John Arrillaga	2.3	78	Portola Valley  CA	real estate
+293 	Tilman Fertitta	2.3	58	Houston  TX	restaurants  casinos
+293 	Tom Golisano	2.3	74	Naples  FL	payroll services
+293 	Noam Gottesman	2.3	54	New York  NY	hedge funds
+293 	B. Wayne Hughes	2.3	82	Lexington  KY	self storage
+293 	W. Herbert Hunt	2.3	86	Dallas  TX	oil
+293 	James Irsay	2.3	56	Carmel  IN	Indianapolis Colts
+293 	Richard Peery	2.3	77	Palo Alto  CA	real estate
+293 	Jean (Gigi) Pritzker	2.3	53	Chicago  IL	hotels  investments
+293 	John Pritzker	2.3	62	San Francisco  CA	hotels  investments
+293 	Larry Robbins	2.3	46	Alpine  NJ	hedge funds
+293 	Thomas Siebel	2.3	63	Woodside  CA	business software
+293 	Pat Stryker	2.3	59	Fort Collins  CO	medical equipment
+293 	Ty Warner	2.3	71	Oak Brook  IL	real estate  plush toys
+307 	Ron Baron	2.2	72	New York  NY	money management
+307 	Tom Benson	2.2	88	New Orleans  LA	New Orleans Saints
+307 	John Brown	2.2	81	Portage  MI	medical equipment
+307 	Chase Coleman  III.	2.2	40	New York  NY	hedge fund
+307 	James Coulter	2.2	56	San Francisco  CA	private equity
+307 	Jack Dorsey	2.2	39	San Francisco  CA	Twitter
+307 	John Henry	2.2	66	Boca Raton  FL	sports
+307 	Johnelle Hunt	2.2	83	Fayetteville  AR	trucking
+307 	Michael Jaharis	2.2	87	New York  NY	pharmaceuticals
+307 	Min Kao	2.2	66	Leawood  KS	navigation equipment
+307 	Brad Kelley	2.2	59	Franklin  TN	tobacco
+307 	William Koch	2.2	75	Palm Beach  FL	oil  investments
+307 	Jeffrey Lorberbaum	2.2	61	Chattanooga  TN	flooring
+307 	Joe Mansueto	2.2	59	Chicago  IL	investment research
+307 	Gabe Newell	2.2	53	Seattle  WA	videogames
+307 	Robert Pera	2.2	37	San Jose  CA	wireless networking gear
+307 	Stewart Rahr	2.2	69	New York  NY	drug distribution
+307 	Ted Turner	2.2	77	Atlanta  GA	cable television
+307 	Vincent Viola	2.2	59	New York  NY	electronic trading
+307 	Mark Walter	2.2	54	Chicago  IL	finance
+327 	S. Daniel Abraham	2.1	91	Palm Beach  FL	Slim-Fast
+327 	Gerald Ford	2.1	71	Dallas  TX	banking
+327 	Gordon Getty	2.1	82	San Francisco  CA	Getty Oil
+327 	Alec Gores	2.1	62	Beverly Hills  CA	private equity
+327 	Bill Haslam	2.1	57	Knoxville  TN	truck stops
+327 	Stanley Hubbard	2.1	82	St. Paul  MN	DirecTV
+327 	Bob Parsons	2.1	65	Scottsdale  AZ	web hosting
+327 	Jay Paul	2.1	68	San Francisco  CA	real estate
+327 	Forrest Preston	2.1	82	Cleveland  TN	health care
+327 	Daniel Pritzker	2.1	56	Marin County  CA	hotels  investments
+327 	Paul Singer	2.1	70	New York  NY	hedge funds
+327 	Dan Snyder	2.1	51	Potomac  MD	Washington Redskins
+327 	Evan Spiegel	2.1	25	Los Angeles  CA	Snapchat
+327 	Jon Stryker	2.1	57	Kalamazoo  MI	medical equipment
+327 	Anita Zucker	2.1	63	Charleston  SC	chemicals
+342 	George Argyros	2	78	Newport Beach  CA	real estate  investments
+342 	Edward Bass	2	70	Fort Worth  TX	oil  investments
+342 	Lee Bass	2	59	Fort Worth  TX	oil  investments
+342 	Sid Bass	2	72	Fort Worth  TX	oil  investments
+342 	Norman Braman	2	83	Miami  FL	art  car dealerships
+342 	Glenn Dubin	2	58	New York  NY	hedge funds
+342 	James France	2	71	Daytona Beach  FL	Nascar  racing
+342 	Bill Gross	2	71	Laguna Beach  CA	investments
+342 	Bruce Karsh	2	60	Los Angeles  CA	private equity
+342 	Thomas Lee	2	71	New York  NY	leveraged buyouts
+342 	Howard Marks	2	69	New York  NY	private equity
+342 	Manuel Moroun	2	88	Grosse Pointe Shores  MI	transportation
+342 	Jonathan Nelson	2	59	Providence  RI	private equity
+342 	Roger Penske	2	78	Birmingham  MI	cars
+342 	David Walentas	2	77	New York  NY	real estate
+342 	Meg Whitman	2	59	Atherton  CA	eBay
+358 	Timothy Boyle	1.9	66	Portland  OR	Columbia Sportswear
+358 	John Farber	1.9	90	New York  NY	chemicals
+358 	Timothy Headington	1.9	65	Dallas  TX	oil &amp; gas  investments
+358 	Hamilton James	1.9	64	New York  NY	investments
+358 	Marc Lasry	1.9	55	New York  NY	hedge funds
+358 	Craig McCaw	1.9	66	Hunts Point  WA	telecom
+358 	Henry Nicholas  III.	1.9	56	Newport Coast  CA	semiconductors
+358 	Nelson Peltz	1.9	73	Bedford  NY	investments
+358 	Julio Mario Santo Domingo  III.	1.9	30	New York  NY	beer
+358 	Thomas Secunda	1.9	61	Croton-on-Hudson  NY	Bloomberg LP
+358 	Kavitark Ram Shriram	1.9	58	Menlo Park  CA	venture capital  Google
+358 	Glen Taylor	1.9	74	Mankato  MN	printing
+358 	Ronald Wanek	1.9	74	St. Petersburg  FL	furniture
+358 	Denise York	1.9	65	Youngstown  OH	San Francisco 49ers
+372 	James Clark	1.85	71	Palm Beach  FL	Netscape  investments
+372 	Fayez Sarofim	1.85	87	Houston  TX	money management
+372 	Amy Wyss	1.85	44	Wilson  WY	medical equipment
+375 	Louis Bacon	1.8	57	Oyster Bay  NY	hedge funds
+375 	Scott Cook	1.8	63	Woodside  CA	software
+375 	David Einhorn	1.8	47	Westchester County  NY	hedge funds
+375 	Kenneth Feld	1.8	67	Tampa  FL	circus  live entertainment
+375 	Joseph Grendys	1.8	53	Chicago  IL	meat processing
+375 	Aerin Lauder Zinterhofer	1.8	45	New York  NY	cosmetics
+375 	Drayton McLane  Jr.	1.8	79	Temple  TX	Wal-Mart  logistics
+375 	Gail Miller	1.8	72	Salt Lake City  UT	basketball  car dealers
+375 	Arturo Moreno	1.8	69	Phoenix  AZ	billboards
+375 	Bobby Murphy	1.8	27	Venice  CA	Snapchat
+375 	Linda Pritzker	1.8	61	Missoula  MT	hotels  investments
+375 	Leonard Schleifer	1.8	63	Tarrytown  NY	pharmaceuticals
+375 	Mark Stevens	1.8	55	Atherton  CA	venture capital
+375 	Evan Williams	1.8	43	San Francisco  CA	Twitter
+389 	Victor Fung	1.75	70	Hong Kong	trading company
+389 	Jennifer Pritzker	1.75	64	Chicago  IL	hotels  investments
+389 	Nicholas Woodman	1.75	40	Woodside  CA	GoPro
+392 	Herb Chambers	1.7	73	Boston  MA	car dealerships
+392 	Christopher Cline	1.7	57	North Palm Beach  FL	coal
+392 	Sanford Diller	1.7	87	Woodside  CA	real estate
+392 	Frank Fertitta  III.	1.7	53	Las Vegas  NV	casinos  Ultimate Fighting Championship
+392 	Lorenzo Fertitta	1.7	46	Las Vegas  NV	casinos  Ultimate Fighting Championship
+392 	Anne Gittinger	1.7	79	Seattle  WA	Nordstrom department stores
+392 	Jonathan Gray	1.7	45	New York  NY	investments
+392 	Jerry Yang	1.7	47	Los Altos Hills  CA	Yahoo
